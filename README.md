@@ -1,1 +1,2 @@
-# robofriends-test
+# robofriends
+# React.js Web App Training
